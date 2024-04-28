@@ -1,0 +1,51 @@
+[
+{
+"name": "Іван Петренко",
+"phone": "+380971234567",
+"city": "Львів",
+"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vitae dui nec purus porttitor tempus eget sed velit. Aliquam at massa ac risus porta posuere. Donec lacinia pretium leo et cursus. Nam dapibus dui in sapien dignissim, a pellentesque tellus fringilla. Aliquam tristique lorem ut volutpat auctor. Duis congue, neque sit amet gravida vehicula, neque dolor tempor neque, quis dapibus nisl sem quis purus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis semper libero risus, vel laoreet massa eleifend in. Proin vitae ex sed arcu volutpat blandit. Nam a orci justo.",
+"imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzx0SJtTiFnbZbFripshjM8x6t1OPxFEqHOKwOKfw2Jg&s"
+},
+{
+"name": "Олена Сидоренко",
+"phone": "+380663214567",
+"city": "Київ",
+"description": "Потрібна допомога з дизайном сайту",
+"imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzx0SJtTiFnbZbFripshjM8x6t1OPxFEqHOKwOKfw2Jg&s"
+},
+{
+"name": "Тарас Шевченко",
+"phone": "+380954321000",
+"city": "Одеса",
+"description": "Продаю автомобіль",
+"imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzx0SJtTiFnbZbFripshjM8x6t1OPxFEqHOKwOKfw2Jg&s"
+},
+{
+"name": "Тарас Шевченко",
+"phone": "+380954321000",
+"city": "Одеса",
+"description": "Продаю автомобіль",
+"imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzx0SJtTiFnbZbFripshjM8x6t1OPxFEqHOKwOKfw2Jg&s"
+},
+{
+"name": "Тарас Шевченко",
+"phone": "+380954321000",
+"city": "Одеса",
+"description": "Продаю автомобіль",
+"imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzx0SJtTiFnbZbFripshjM8x6t1OPxFEqHOKwOKfw2Jg&s"
+},
+{
+"name": "Тарас Шевченко",
+"phone": "+380954321000",
+"city": "Одеса",
+"description": "Продаю автомобіль",
+"imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzx0SJtTiFnbZbFripshjM8x6t1OPxFEqHOKwOKfw2Jg&s"
+},
+{
+"name": "Тарас Шевченко",
+"phone": "+380954321000",
+"city": "Одеса",
+"description": "Продаю автомобіль",
+"imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzx0SJtTiFnbZbFripshjM8x6t1OPxFEqHOKwOKfw2Jg&s"
+}
+]
